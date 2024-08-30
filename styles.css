@@ -172,6 +172,14 @@ button:hover {
     margin-bottom: 2rem;
 }
 
+.facebook-video {
+    padding: 20px;
+}
+
+.facebook-video video {
+    border-radius: 20px;
+}
+
 .menu-item {
     width: 45%;
     background-color: #fff;
